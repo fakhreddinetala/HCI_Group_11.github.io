@@ -77,7 +77,7 @@ nav a:hover {
 
 .button {
   padding: 0.8em 1.5em;
-  background: var(--primary);
+  background: var(--accent);
   color: var(--text);
   border: none;
   border-radius: 5px;
