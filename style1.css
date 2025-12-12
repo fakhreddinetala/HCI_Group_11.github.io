@@ -133,13 +133,13 @@ nav a:hover {
 /* Deliverables Page */
 .deliverable-card {
   background: white;
-  padding: 1.8em 1.3em;
-  border-radius: 12px;
+  padding: 1.3em 1.0em;
+  border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
   text-align: center;
-  width: 240px;
+  width: 220px;
   height: auto;
-  min-height: 280px;
+  min-height: 240px;
   text-decoration: none;
   color: var(--text);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
