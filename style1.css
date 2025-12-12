@@ -196,10 +196,10 @@ nav a:hover {
 }
 
 .deliverables-container {
-  display: grid;
-  grid-template-columns: repeat(3, 220px); 
-  justify-content: center;                 
-  gap: 1.5em 1em;                           
+  display: flex;
+  flex-wrap: wrap;         
+  justify-content: center; 
+  gap: 1.5em;              
 }
 
 .prototype-card {
