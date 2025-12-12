@@ -45,7 +45,7 @@ nav a:hover {
 /* Hero Section */
 .full-screen {
   height: 100vh;
-  background: var(--accent);
+  background: var(--background);
   color: var(--text);
   display: flex;
   flex-direction: column;
