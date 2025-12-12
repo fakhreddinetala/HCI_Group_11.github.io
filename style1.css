@@ -1,8 +1,8 @@
 :root {
-  --primary: #A0C4FF;
-  --accent: #F0F4FF;
-  --background: #F0F4FF;
-  --text: #2D2D2D;
+  --primary: #4c45b3;      /* main brand color */
+  --accent: #6d66cc;       /* lighter shade of #4c45b3 */
+  --background: #f3f2ff;   /* very light tint for backgrounds */
+  --text: #2D2D2D;         /* readable dark text */
 }
 
 body {
